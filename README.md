@@ -16,10 +16,10 @@
 | ------------- | ------------- | ----- |
 | [Six Cities](https://github.com/magtesyan/six-cities-4) | Hotels booking service. | TypeScript, React, Redux, Jest, Enzyme, Webpack |
 | [Cinemaaddict](https://github.com/magtesyan/cinemaddict-11) | Service for big movie fans. | JavaScript (ES6), Chart.js, Moment.js, Webpack |
-| [Keksobooking](https://github.com/magtesyan/keksobooking) | Real estate exchange exchange service. | JavaScript (ES5) |
+| [Keksobooking](https://github.com/magtesyan/keksobooking) | Real estate exchange service. | JavaScript (ES5) |
 | [Maksim Arutyunov](https://github.com/magtesyan/maksimarutyunov) | Showman landing page. | HTML, SCSS, JavaScript (ES6), Webpack |
 | [Sedona](https://github.com/magtesyan/sedona-18) | Arizona State tourism web-site. | HTML, LESS, JavaScript (ES5), Gulp |
-| [Technomart](https://github.com/magtesyan/technomart) | Internet-shop for building materials and tools. | HTML, CSS, Vanilla JavaScript (ES5) |
+| [Technomart](https://github.com/magtesyan/technomart) | Internet-shop for building materials and tools. | HTML, CSS, JavaScript (ES5) |
 
 ## My Github Stats
 
